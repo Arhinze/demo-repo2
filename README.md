@@ -1,5 +1,5 @@
-##Demo Repo 2 Read Me File
+## Demo Repo 2 Read Me File
 
-####Pushing Repo created Locally
+#### Pushing Repo created Locally
 
 This repo was created locally.
